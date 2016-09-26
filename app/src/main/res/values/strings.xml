@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Hologram Controller</string>
     <string name="title_activity_navdrawer">navdrawer</string>
+    <string-array name="string_array_name">options</string-array>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
